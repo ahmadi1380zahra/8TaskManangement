@@ -1,0 +1,16 @@
+C:\Users\zahra\source\repos\TaskManangement\TaskManangement\bin\Debug\net5.0\TaskManangement.exe
+C:\Users\zahra\source\repos\TaskManangement\TaskManangement\bin\Debug\net5.0\TaskManangement.deps.json
+C:\Users\zahra\source\repos\TaskManangement\TaskManangement\bin\Debug\net5.0\TaskManangement.runtimeconfig.json
+C:\Users\zahra\source\repos\TaskManangement\TaskManangement\bin\Debug\net5.0\TaskManangement.runtimeconfig.dev.json
+C:\Users\zahra\source\repos\TaskManangement\TaskManangement\bin\Debug\net5.0\TaskManangement.dll
+C:\Users\zahra\source\repos\TaskManangement\TaskManangement\bin\Debug\net5.0\ref\TaskManangement.dll
+C:\Users\zahra\source\repos\TaskManangement\TaskManangement\bin\Debug\net5.0\TaskManangement.pdb
+C:\Users\zahra\source\repos\TaskManangement\TaskManangement\obj\Debug\net5.0\TaskManangement.csproj.AssemblyReference.cache
+C:\Users\zahra\source\repos\TaskManangement\TaskManangement\obj\Debug\net5.0\TaskManangement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zahra\source\repos\TaskManangement\TaskManangement\obj\Debug\net5.0\TaskManangement.AssemblyInfoInputs.cache
+C:\Users\zahra\source\repos\TaskManangement\TaskManangement\obj\Debug\net5.0\TaskManangement.AssemblyInfo.cs
+C:\Users\zahra\source\repos\TaskManangement\TaskManangement\obj\Debug\net5.0\TaskManangement.csproj.CoreCompileInputs.cache
+C:\Users\zahra\source\repos\TaskManangement\TaskManangement\obj\Debug\net5.0\TaskManangement.dll
+C:\Users\zahra\source\repos\TaskManangement\TaskManangement\obj\Debug\net5.0\ref\TaskManangement.dll
+C:\Users\zahra\source\repos\TaskManangement\TaskManangement\obj\Debug\net5.0\TaskManangement.pdb
+C:\Users\zahra\source\repos\TaskManangement\TaskManangement\obj\Debug\net5.0\TaskManangement.genruntimeconfig.cache
